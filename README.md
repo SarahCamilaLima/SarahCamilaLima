@@ -15,17 +15,17 @@
 ## Onde me encontrar
 
 <p align="left">
-  <a href="#" title="LinkedIn">
-  	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahcamilalima/" />	
+  <a href="https://www.linkedin.com/in/sarahcamilalima/" title="LinkedIn">
+  	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&" />	
   </a>
-  <a href="#" title="Twitter">
-  	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/sarahnxj_lima" />
+  <a href="https://x.com/sarahnxj_lima" title="Twitter">
+  	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&" />
   </a>
-  <a href="#" title="Reddit">
-  	<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Sarahnxj_lima/" />
+  <a href="https://www.reddit.com/user/Sarahnxj_lima/" title="Reddit">
+  	<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&" />
   </a>
-  <a href="#" title="Instagram">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sarahnxj_lima/" /> 
+  <a href="https://www.instagram.com/sarahnxj_lima/" title="Instagram">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&" /> 
   </a>
 </p>
 
