@@ -44,12 +44,12 @@
 </p>
 
 ---
-
-## ⭐ GitHub Stats
+<!-- Tópico abaixo ficará comentado por enquanto pois só está pegando informações do meu repositório público, então não tem muita informação, preciso criar novos projetos pessoais em PHP e Java para poder demonstrar ou então subir uma versão local dessa api abaixo. -->
+<!-- ## ⭐ GitHub Stats
 
 [![SarahCamilaLima](https://github-readme-stats.vercel.app/api?username=SarahCamilaLima&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SarahCamilaLima](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCamilaLima&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![SarahCamilaLima](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCamilaLima&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
