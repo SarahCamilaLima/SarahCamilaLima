@@ -15,16 +15,16 @@
 ## Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sarahcamilalima/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/sarahcamilalima/" title="LinkedIn" target="_blank" style="margin-right: 10px;">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&" />	
   </a>
-  <a href="https://x.com/sarahnxj_lima" title="Twitter">
+  <a href="https://x.com/sarahnxj_lima" title="Twitter" target="_blank" style="margin-right: 10px;">
   	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&" />
   </a>
-  <a href="https://www.reddit.com/user/Sarahnxj_lima/" title="Reddit">
+  <a href="https://www.reddit.com/user/Sarahnxj_lima/" title="Reddit" target="_blank" style="margin-right: 10px;">
   	<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&" />
   </a>
-  <a href="https://www.instagram.com/sarahnxj_lima/" title="Instagram">
+  <a href="https://www.instagram.com/sarahnxj_lima/" title="Instagram" target="_blank">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&" /> 
   </a>
 </p>
